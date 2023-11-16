@@ -12,21 +12,17 @@ public class Main {
     private static BufferedWriter bufferedWriter;
 
     private static class Node {
-        int id;
         char data;
 
         public Node(int id, char data) {
-            this.id = id;
             this.data = data;
         }
     }
 
     private static class BinaryTree {
-        int size;
         int preIndex = 0;
 
         public BinaryTree(int size) {
-            this.size = size - 1;
         }
 
         void printPostOrder(Node[] node, int insideStart, int insideEnd) throws IOException {
