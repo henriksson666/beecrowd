@@ -1,3 +1,9 @@
+/*
+ * Author: João Henrique Silva Pinto
+ * Link: https://www.beecrowd.com.br/judge/en/problems/view/1282
+ * beecrowd | 1282 Arranging Heaps
+ */
+
 import java.util.Scanner;
 
 public class Main {
