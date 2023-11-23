@@ -1,3 +1,9 @@
+/*
+ * Author: João Henrique Silva Pinto
+ * Link: https://www.beecrowd.com.br/judge/en/problems/view/2675
+ * beecrowd | 2675 Steal Pack
+ */
+
 import java.util.Scanner;
 
 public class Main {
